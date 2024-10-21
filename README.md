@@ -25,7 +25,7 @@ To run the User-Input Random Number Guessing Game, ensure you have Python 3.x in
 
 **Clone the repository:**
    
-   ```git clone https://github.com/code-verse-vrushabh/random_game.git```
+   ```git clone https://github.com/Code-Verse-Vrushabh/Python-Tiny-Projects.git```
 
 You can run the game by executing the following command in your terminal:
 
@@ -47,6 +47,7 @@ Once you launch the game, you'll be prompted to specify the lower and upper boun
 - After a round, you can choose to play again or exit.
 
 ## Example Interaction
+
 ```
 -- Welcome to the User-Input Random Number Guessing Game!
 -- Please enter the lower bound of the range: 1
